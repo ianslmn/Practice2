@@ -1,7 +1,5 @@
 # Practice2
 
-**README.md**
-
 # Monte Carlo Pi Approximation
 
 This project approximates the value of π using the Monte Carlo method with recursion in Java.
